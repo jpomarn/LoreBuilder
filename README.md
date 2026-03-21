@@ -12,8 +12,8 @@ People frequently struggle with:
 
 Without a sense of progress or reward, it becomes easy to lose motivation and abandon goals entirely.
 
-### Images
-![Images](images.png)
+### Screenshot
+![Image](images.png)
 ---
 
 ## Make Personal Development Fun Again!
